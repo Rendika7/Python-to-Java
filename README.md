@@ -1,3 +1,5 @@
+![Hero Image](https://raw.githubusercontent.com/Rendika7/Python-to-Java/refs/heads/main/Hero%20Image.png)
+
 ```markdown
 # Python to Java: Code Comparison Repository
 
