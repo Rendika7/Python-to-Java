@@ -1,5 +1,3 @@
-Here’s a `README.md` tailored specifically for the **repository** itself, rather than the comparison content:
-
 ```markdown
 # Python to Java: Code Comparison Repository
 
